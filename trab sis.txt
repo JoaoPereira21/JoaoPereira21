@@ -1,0 +1,5 @@
+tshirt,short,camisa social
+camisa social,sunga
+mochila,sunga
+bone,mochila
+mochila
