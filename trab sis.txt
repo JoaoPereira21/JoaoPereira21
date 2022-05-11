@@ -3,3 +3,78 @@ camisa social,sunga
 mochila,sunga
 bone,mochila
 mochila
+calca,tshirt,bone
+mochila,camisa social
+bone,sunga
+camisa social,short,tshirt
+sunga,camisa social
+sunga,mochila
+bone
+mochila
+sunga,tshirt
+camisa social,mochila,bone
+bone, calca
+calca
+calca,tshirt,bone
+mochila,camisa social
+bone,sunga
+camisa social,short,tshirt
+sunga,camisa social
+sunga,mochila
+bone
+mochila
+sunga,tshirt
+camisa social,mochila,bone
+bone, calca
+calca
+tshirt,short,camisa social
+camisa social,sunga
+mochila,sunga
+bone,mochila
+mochila
+calca,tshirt,bone
+mochila,camisa social
+tshirt, camisa social,sunga
+short, bone,sunga
+calca
+camisa social, tshirt,mochila
+bone,calca,mochila,sunga
+mochila
+sunga,calca,camisa socialtshirt, camisa social,sunga
+short, bone,sunga
+calca
+camisa social, tshirt,mochila
+bone,calca,mochila,sunga
+mochila
+sunga,calca,camisa socialtshirt, camisa social,sunga
+short, bone,sunga
+calca
+camisa social, tshirt,mochila
+bone,calca,mochila,sunga
+mochila
+sunga,calca,camisa socialtshirt, camisa social,sunga
+short, bone,sunga
+calca
+camisa social, tshirt,mochila
+bone,calca,mochila,sunga
+mochila
+sunga,calca,camisa socialtshirt, camisa social,sunga
+short, bone,sunga
+calca
+camisa social, tshirt,mochila
+bone,calca,mochila,sunga
+mochila
+sunga,calca,camisa socialtshirt, camisa social,sunga
+short, bone,sunga
+calca
+camisa social, tshirt,mochila
+bone,calca,mochila,sunga
+mochila
+sunga,calca,camisa socialtshirt, camisa social,sunga
+short, bone,sunga
+calca
+camisa social, tshirt,mochila
+bone,calca,mochila,sunga
+mochila
+sunga,calca,camisa socialtshirt, camisa social,sunga
+short, bone,sunga
